@@ -70,7 +70,7 @@ export function DemoNavigator() {
         name="cory"
         component={CoryScreen}
         options={{
-          tabBarLabel: translate("demoNavigator:componentsTab"),
+          tabBarLabel: translate("demoNavigator:coryTab"),
           tabBarIcon: ({ focused }) => (
             <Icon icon="components" color={focused ? colors.tint : colors.tintInactive} size={30} />
           ),

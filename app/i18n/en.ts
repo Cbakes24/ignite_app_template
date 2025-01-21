@@ -46,13 +46,13 @@ const en = {
 
   demoNavigator: {
     componentsTab: "SUPPPPP",
+    coryTab: "Corys Tab",
     debugTab: "Debug",
     communityTab: "Community",
     podcastListTab: "Podcast",
   },
 
   demoCommunityScreen: {
-    corySays: "CORY SAYS WADDUPP I made a key value pair too!",
     title: "You Found this page in the i18n folder en.ts",
     tagLine:
       "its the object demoCommunityScreen, the use key value pairs for the text rather than writing it in on the  screen page",
@@ -76,7 +76,9 @@ const en = {
     hireUsLink: "Send us a message",
   },
 
-  
+  CoryScreen: {
+    corySays: "CORY SAYS WADDUPP I made a key value pair too!",
+  },
   demoShowroomScreen: {
     jumpStart: "Your Solar Project",
     lorem2Sentences:

@@ -47,11 +47,13 @@ const es: Translations = {
   },
   demoNavigator: {
     componentsTab: "Componentes",
+    coryTab: "Cory's Tab",
     debugTab: "Debug",
     communityTab: "Comunidad",
     podcastListTab: "Podcasts",
   },
   demoCommunityScreen: {
+
     title: "Conecta con la comunidad",
     tagLine:
       "Únete a la comunidad React Native con los ingenieros de Infinite Red y mejora con nosotros tus habilidades para el desarrollo de apps.",
@@ -74,6 +76,10 @@ const es: Translations = {
     hireUs:
       "Ya sea para gestionar un proyecto de inicio a fin o educación a equipos a través de nuestros cursos y capacitación práctica, Infinite Red puede ayudarte en casi cualquier proyecto de React Native.",
     hireUsLink: "Envíanos un mensaje",
+  },
+
+  CoryScreen: {
+    corySays: "CORY SAYS WADDUPP I made a key value pair too!",
   },
   demoShowroomScreen: {
     jumpStart: "Componentessss para comenzar tu proyecto",
