@@ -76,9 +76,10 @@ const en = {
     hireUsLink: "Send us a message",
   },
 
-  CoryScreen: {
+  coryScreen: {
     corySays: "CORY SAYS WADDUPP I made a key value pair too!",
   },
+  
   demoShowroomScreen: {
     jumpStart: "Your Solar Project",
     lorem2Sentences:

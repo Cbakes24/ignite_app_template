@@ -24,7 +24,7 @@ export const DemoCommunityScreen: FC<DemoTabScreenProps<"DemoCommunity">> =
 
         <Text preset="subheading" tx="demoCommunityScreen:joinUsOnSlackTitle" />
         <Text tx="demoCommunityScreen:joinUsOnSlack" style={themed($description)} />
-        <Text tx="demoCommunityScreen:corySays" style={themed($description)} />
+       
       <Grid4X4 />
         <ListItem
           tx="demoCommunityScreen:joinSlackLink"

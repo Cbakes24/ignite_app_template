@@ -78,7 +78,7 @@ const es: Translations = {
     hireUsLink: "Envíanos un mensaje",
   },
 
-  CoryScreen: {
+  coryScreen: {
     corySays: "CORY SAYS WADDUPP I made a key value pair too!",
   },
   demoShowroomScreen: {
